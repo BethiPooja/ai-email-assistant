@@ -72,7 +72,7 @@ email-writer-sb/
 │       └── resources/
 │           └── application.properties
 │
-├── extension/
+├── frontend/
 │   ├── content.js
 │   ├── content.css
 │   └── manifest.json
